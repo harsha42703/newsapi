@@ -500,7 +500,129 @@
         }
     ],
     "entertainment":[
-
+        {
+            "status": "ok",
+            "totalResults": 70,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "News18"
+                    },
+                    "author": "Dishya Sharma",
+                    "title": "Anushka Sharma's Baby Bump Spotted? Viral Video With Virat Seemingly CONFIRMS Second Pregnancy - News18",
+                    "description": "A new video seemingly confirms Anushka Sharma's pregnancy rumours. The actress was spotted with Virat Kohli after India beat Pakistan at World Cup.",
+                    "url": "https://www.news18.com/movies/anushka-sharma-baby-bump-spotted-viral-video-virat-kohli-confirms-second-pregnancy-8618383.html",
+                    "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/anushka-sharma-pregnant-2-2023-10-7020edd7538d9f313da1fd0b714ca235-16x9.jpg?impolicy=website&width=1200&height=675",
+                    "publishedAt": "2023-10-15T06:35:57Z",
+                    "content": "Anushka Sharma appeared to be hiding her baby bump in a new video with Virat Kohli, seemingly confirming pregnancy rumours. The actress joined her cricketer husband at the India vs Pakistan match in … [+1708 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Deepika Padukone shares first look from Singham Again, Alia Bhatt and Ranveer Singh react: 'Introducing Shakti Shetty' - Hindustan Times",
+                    "description": "Meet Shakti Shetty aka Deepika Padukone's cop character from Singham Again. Here's how Ranveer Singh and Janhvi Kapoor reacted to Deepika's fierce avatar. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/deepika-padukone-singham-again-first-look-shakti-shetty-cop-ranveer-singh-101697348741452.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/Deepika_Padukone_1697348951808_1697348971582.jpg",
+                    "publishedAt": "2023-10-15T05:57:29Z",
+                    "content": "Deepika Padukone will be seen playing a key role in Singham Again. On Sunday, she unveiled her cop look from the Rohit Shetty film. Sharing two photos of herself in uniform and wielding a gun, Deepik… [+2441 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Parineeti Chopra talks about her sindoor and saree fashion week look - Hindustan Times",
+                    "description": "Parineeti Chopra has walked the ramp for the first time after her wedding. On Saturday, she was a showstopper at Lakme Fashion Week in Delhi. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/parineeti-chopra-sindoor-saree-fashion-week-viral-new-bride-101697346172270.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/F8ZeK_dbMAAhopk_1697346454368_1697346496591.jpg",
+                    "publishedAt": "2023-10-15T05:25:18Z",
+                    "content": "Parineeti Chopra on Saturday walked the ramp during the ongoing Lakme Fashion Week in Delhi. The actor, who married Aam Aadmi Party leader Raghav Chadha in Udaipur last month, turned muse for One Inf… [+2152 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "123telugu.com"
+                    },
+                    "author": null,
+                    "title": "Exclusive updates on Siddhu Jonnalagadda-Neeraja Kona film - 123telugu",
+                    "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+                    "url": "https://www.123telugu.com/mnews/exclusive-updates-on-siddhu-jonnalagadda-neeraja-kona-film.html",
+                    "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+                    "publishedAt": "2023-10-15T05:16:00Z",
+                    "content": "Siddhu Jonnalagadda is juggling multiple projects, including Tillu Square and a film with Bommarillu Bhaskar. Now, he’s added another exciting project to his list, creating quite a buzz in the indust… [+1029 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India Today"
+                    },
+                    "author": "India Today Entertainment Desk",
+                    "title": "Hrithik Roshan shuts down trolls questioning Saba Azad's Lakme Fashion show dance - India Today",
+                    "description": "Saba Azad faced trolling after she danced on the ramp at the Lakme Fashion Week. Hrithik Roshan responded to the trolls with a savage message on Instagram.",
+                    "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-shuts-down-trolls-questioning-saba-azads-lakme-fashion-show-dance-2449180-2023-10-15",
+                    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/hrithik-roshan-shuts-down-trolls-targeting-saba-azad-for-her-ramp-dance-150108494-16x9.png?VersionId=ULhnEiq7TeVUCtxN3XPmdz4oHQC92p05",
+                    "publishedAt": "2023-10-15T05:05:22Z",
+                    "content": "Hrithik Roshan's girlfriend, Saba Azad, recently walked the Lakme Fashion Week ramp and danced along. A section of the social media brutally trolled her. Soon after, Saba silenced trolls with befitti… [+2711 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Sunny Deol recalls drinking alcohol for the first time to fit in English society - Hindustan Times",
+                    "description": "Sunny Deol once caught his son Rajveer Deol after he had his first beer and came home. Unlike his sons, the actor said he doesn't drink or smoke. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/sunny-deol-drank-alcohol-first-time-to-fit-in-england-101697343221439.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/_cd0aa6a6-3446-11eb-a095-f4dd1fe9b7fb_1697344679532.png",
+                    "publishedAt": "2023-10-15T04:54:00Z",
+                    "content": "Did you know actor Sunny Deol is a teetotaler? He confessed the same during a recent interview with Mashable India and said that he doesn't understand people's fascination with alcohol. He revealed t… [+1957 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "Fauda Actor's Insta Reel Captures Horror Of Hamas Attacks On Israel - NDTV",
+                    "description": "Israeli actor Rona-Lee Shimon, who starred in the popular web series Fauda, has put up an Instagram reel that captures the horror Israelis faced last Saturday when Hamas operatives launched an unprecedented attack on its cities.",
+                    "url": "https://www.ndtv.com/world-news/rona-lee-shimon-hamas-attacks-on-israel-fauda-actors-insta-reel-captures-horror-of-hamas-attacks-on-israel-4482408",
+                    "urlToImage": "https://c.ndtvimg.com/2023-10/ejnoihag_ronalee-shimon_625x300_15_October_23.jpg",
+                    "publishedAt": "2023-10-15T04:37:09Z",
+                    "content": "The actor plays Nurit, a woman member of Israel's counter-terrorism unit, in Fauda.\r\nNew Delhi: Israeli actor Rona-Lee Shimon, who starred in the popular web series Fauda, has put up an Instagram ree… [+2113 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Gulte"
+                    },
+                    "author": "Satya B",
+                    "title": "Negative vibes surrounds Vijay’s LEO - Gulte",
+                    "description": "Thalapathy Vijay's \"Leo\" initially created a substantial buzz, garnering attention in Tamil and Telugu. Despite the association of big names like Lokesh Kanagaraj, Anirudh Ravichander, Sanjay Dutt, Trisha Krishnan, and Vijay himself, negative vibes surround t…",
+                    "url": "https://www.gulte.com/movienews/263343/negative-vibes-surrounds-vijays-leo",
+                    "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2023/10/img_6718-1.jpg",
+                    "publishedAt": "2023-10-15T03:56:03Z",
+                    "content": "Thalapathy Vijay’s “Leo” initially created a substantial buzz, garnering attention in Tamil and Telugu. Despite the association of big names like Lokesh Kanagaraj, Anirudh Ravichander, Sanjay Dutt, T… [+1927 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Livemint",
+                    "title": "Who is Azhar Iqubal, the latest to join Season 3 of Shark Tank India? Key things to know | Mint - Mint",
+                    "description": "Azhar Iqubal expressed his motivation for joining Shark Tank India, aiming to assist participants in realising their entrepreneurial aspirations",
+                    "url": "https://www.livemint.com/news/who-is-azhar-iqubal-the-latest-to-join-season-3-of-shark-tank-india-key-things-to-know-11697339090899.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/Shark_Tank_India_Azhar_Iqubal_1697339170350_1697339193183.jfif",
+                    "publishedAt": "2023-10-15T03:37:12Z",
+                    "content": "The Sharks are poised to commence filming for the fourth phase of the upcoming season and Inshorts co-founder and CEO Azhar Iqubal is the latest entrepreneur to be featured on Shark Tank India, accor… [+2736 chars]"
+                }
+            ]
+        }
     ],
     "business":[
         {
