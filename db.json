@@ -1,3 +1,882 @@
+
+
+{
+    "general": [
+        {
+            "status": "ok",
+            "totalResults": 38,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Deepika Padukone shares first look from Singham Again, Alia Bhatt and Ranveer Singh react: 'Introducing Shakti Shetty' - Hindustan Times",
+                    "description": "Meet Shakti Shetty aka Deepika Padukone's cop character from Singham Again. Here's how Ranveer Singh and Janhvi Kapoor reacted to Deepika's fierce avatar. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/deepika-padukone-singham-again-first-look-shakti-shetty-cop-ranveer-singh-101697348741452.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/Deepika_Padukone_1697348951808_1697348971582.jpg",
+                    "publishedAt": "2023-10-15T05:57:29Z",
+                    "content": "Deepika Padukone will be seen playing a key role in Singham Again. On Sunday, she unveiled her cop look from the Rohit Shetty film. Sharing two photos of herself in uniform and wielding a gun, Deepik… [+2441 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT News Desk",
+                    "title": "Israel says Hamas commander who led attack in Nirim killed in airstrike, shares video - Hindustan Times",
+                    "description": "The Israeli military said it killed a commander of Hamas' elite Nukhba Force who led the attack on the two Israeli border villages. | World News",
+                    "url": "https://www.hindustantimes.com/world-news/israel-says-hamas-commander-who-led-massacre-in-nirim-killed-in-airstrike-shares-video-101697347363449.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/hamas_commander_1697348257115_1697348264147.PNG",
+                    "publishedAt": "2023-10-15T05:42:48Z",
+                    "content": "The Israeli military on Sunday said it has killed another Hamas commander who led the murderous attacks on the two Israeli border villages of Nirim and Nir Oz. Acting on intelligence provided by the … [+2077 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": null,
+                    "title": "'Bol kya rahe hain': Anushka Sharma and Virat Kohli's chit-chat post India-Pakistan match makes netizens curious - Times of India",
+                    "description": "After India defeted Pakistan in the World Cup match on October 14, a Tsunami of amazing videos from the Narendra Modi stadium flooded the cyberspace. One of the netizens have captured a cute moment that features cricketer Virat Kohli interacting with his wife…",
+                    "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/bol-kya-rahe-hain-anushka-sharma-and-virat-kohlis-chit-chat-post-india-pakistan-match-makes-netizens-curious/videoshow/104436600.cms",
+                    "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104436600,imgsize-34680.cms",
+                    "publishedAt": "2023-10-15T05:11:34Z",
+                    "content": "Oct 15, 2023, 11:17AM ISTSource: etimes.inAfter India defeted Pakistan in the World Cup match on October 14, a Tsunami of amazing videos from the Narendra Modi stadium flooded the cyberspace. One of … [+479 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "New Adani Mega Port Can Lure World's Biggest Ships To India - NDTV",
+                    "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+                    "url": "https://www.ndtv.com",
+                    "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+                    "publishedAt": "2023-10-15T04:55:23Z",
+                    "content": ""
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India Today"
+                    },
+                    "author": "India Today Sports Desk",
+                    "title": "IND vs PAK: Rohit Sharma explains to Hardik Pandya why he flexed his muscles to umpire Marais Erasmus - India Today",
+                    "description": "Rohit Sharma has explained why he decided to flex his muscles to umpire Marais Erasmus during India's win against Pakistan in the World Cup on Saturday. Rohit scored a blistering 86 off 63 balls in Ahmedabad.",
+                    "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-rohit-sharma-explains-to-hardik-pandya-why-he-flexed-his-muscles-to-umpire-marais-erasmus-2449167-2023-10-15",
+                    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/india-vs-pakistan-rohit-sharma-lauds-bowlers-after-indias-majestic-victory-courtesy-ap-142312606-16x9_0.jpg?VersionId=bxl.uyHQYRBQGm5AeOC8DwjCg9g6Re7z",
+                    "publishedAt": "2023-10-15T04:38:20Z",
+                    "content": "Rohit Sharma told Hardik Pandya the reason behind him flexing his muscles in front of umpire Marais Erasmus during India's win against Pakistan in Ahmedabad on Saturday in the World Cup 2023. \r\nRohit… [+1675 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Indian Express"
+                    },
+                    "author": "New York Times",
+                    "title": "Am I still contagious? - The Indian Express",
+                    "description": "You might have toughed it out before the pandemic, but the etiquette is different now.",
+                    "url": "https://indianexpress.com/article/lifestyle/health/cold-norovirus-flu-covid-conjunctivitis-symptoms-treatment-8983576/",
+                    "urlToImage": "https://images.indianexpress.com/2023/10/flu.jpg",
+                    "publishedAt": "2023-10-15T04:35:07Z",
+                    "content": "Argh, youre feeling sick again. You dont want to take off work or go to the doctor if you dont have to, but you also dont want to be that person who infects the whole office. You might have toughed i… [+27562 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Livemint",
+                    "title": "Indian Army says Agniveer Amritpal Singh denied Guard of Honour as per policy, Punjab CM Mann to raise objections | Mint - Mint",
+                    "description": "No Guard of Honour for Agniveer Amritpal Singh. The White Knight Corps of the Indian Army, however, said that since the cause of death was a self-inflicted injury, no guard of honour or military funeral was provided, in accordance with the existing policy.",
+                    "url": "https://www.livemint.com/news/indian-army-says-agniveer-amritpal-singh-denied-guard-of-honour-as-per-policy-punjab-cm-mann-to-raise-objections-11697340337003.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/F8UnI9VaUAAgznN_1697287164014_1697340461068.jpg",
+                    "publishedAt": "2023-10-15T04:34:09Z",
+                    "content": "Agniveer recruit Amritpal Singh, from Punjab, died by suicide on October 11 while on sentry duty in the Rajouri sector of Jammu and Kashmir. However, he was not given an Army Guard of Honour at his l… [+2395 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": "Samiran Mishra",
+                    "title": "Updates: Gaza Braces For Ground Assault As Israel Readies Troops - NDTV",
+                    "description": "Israeli troops prepared on Sunday for a ground assault on the Hamas-controlled Gaza Strip as the country hit back for an unprecedented assault on its territory, and Iran warned of \"far-reaching consequences\" if Israel's bombardment was not stopped.",
+                    "url": "https://www.ndtv.com/world-news/israel-gaza-hamas-palestine-updates-gaza-braces-for-ground-assault-as-israel-readies-troops-4482189",
+                    "urlToImage": "https://c.ndtvimg.com/2023-10/jv6a4kmg_gaza-afp_625x300_13_October_23.jpg",
+                    "publishedAt": "2023-10-15T04:32:53Z",
+                    "content": "New Delhi: Israeli troops prepared on Sunday for a ground assault on the Hamas-controlled Gaza Strip as the country hit back for an unprecedented assault on its territory, and Iran warned of \"far-rea… [+1354 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Affiliate Desk",
+                    "title": "Amazon Festival Sale 2023: Score big with over 65% savings on Lenovo tablets | Mint - Mint",
+                    "description": "Amazon Festival Sale 2023: Fetch up to 65% off on Lenovo tablets. Elevate your digital experience at affordable pricing.",
+                    "url": "https://www.livemint.com/technology/amazon-festival-sale-2023-score-big-with-over-65-savings-on-lenovo-tablets-11697171217291.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/kelly-sikkema-4xHgz_ZllQs-unsplash_1697172687434_1697172694551.jpg",
+                    "publishedAt": "2023-10-15T04:30:09Z",
+                    "content": "You have the opportunity to purchase premium Lenovo tablets at costs that are almost too wonderful to be true. Seize the chance to save over 65% and profit handsomely. Enhance your online experience … [+15314 chars]"
+                }
+            ]
+        }
+    ],
+    "health":[
+        {
+            "status": "ok",
+            "totalResults": 70,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Cureus.com"
+                    },
+                    "author": null,
+                    "title": "The Influence of the COVID-19 Pandemic on Seasonal Influenza Vaccine Uptake Among Patients Visiting a University Hospital in Saudi Arabia - Cureus",
+                    "description": "Introduction: Influenza vaccination is a subject of importance in Saudi Arabia. The study measured the uptake of annual influenza vaccination from 2019 to 2021 among patients attending outpatient clinic of a University Hospital. \r\n\r\nMaterials and methods: A c…",
+                    "url": "https://www.cureus.com/articles/193660-the-influence-of-the-covid-19-pandemic-on-seasonal-influenza-vaccine-uptake-among-patients-visiting-a-university-hospital-in-saudi-arabia?score_article=true",
+                    "urlToImage": "https://assets.cureus.com/uploads/figure/file/766635/article_river_92ef15d05c2d11eeab8f79c6d3a80707-figure-1_-perfect.png",
+                    "publishedAt": "2023-10-15T05:28:12Z",
+                    "content": "Enter your email address to receive your free PDF download.\r\nPlease note that by doing so you agree to be added to our monthly email newsletter distribution list."
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "ANI",
+                    "title": "New heart rhythm categorisation for stroke patients: Study - Hindustan Times",
+                    "description": "The study shows that atrial fibrillation after a stroke differs from irregular heartbeats before the stroke. | Health",
+                    "url": "https://www.hindustantimes.com/lifestyle/health/new-heart-rhythm-categorisation-for-stroke-patients-study-101697344662737.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/heart-health_49f8a0c6-1c25-11e6-878c-ac18b651cb15_1697344818488.jpg",
+                    "publishedAt": "2023-10-15T04:42:48Z",
+                    "content": "A new study described the understanding of atrial fibrillation seen in stroke patients. According to the study, atrial fibrillation discovered after a stroke is not the same as irregular heartbeats k… [+3264 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Indian Express"
+                    },
+                    "author": "New York Times",
+                    "title": "Am I still contagious? - The Indian Express",
+                    "description": "You might have toughed it out before the pandemic, but the etiquette is different now.",
+                    "url": "https://indianexpress.com/article/lifestyle/health/cold-norovirus-flu-covid-conjunctivitis-symptoms-treatment-8983576/",
+                    "urlToImage": "https://images.indianexpress.com/2023/10/flu.jpg",
+                    "publishedAt": "2023-10-15T04:35:07Z",
+                    "content": "Argh, youre feeling sick again. You dont want to take off work or go to the doctor if you dont have to, but you also dont want to be that person who infects the whole office. You might have toughed i… [+27562 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Jagran.com"
+                    },
+                    "author": "Prerna Targhotra",
+                    "title": "How Much Should You Walk In A Week To Lose Weight Benefits Of Walking Workout - Jagran English",
+                    "description": "Benefits Of Walking For Weight Loss: Walking is a cardio exercise that lets you shed those extra kilos and stubborn belly in less time than you think.",
+                    "url": "https://english.jagran.com/lifestyle/how-much-should-you-walk-in-a-week-to-lose-weight-benefits-of-walking-workout-10107301",
+                    "urlToImage": "https://imgeng.jagran.com/images/2023/oct/benefits-of-walking1697342472058.jpg",
+                    "publishedAt": "2023-10-15T03:54:00Z",
+                    "content": "Benefits Of Walking For Weight Loss: Walking is a part of our daily routine and even without realising it, we find ourselves staring at our smartwatches for the total number of steps we walked throug… [+2507 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "ReliefWeb"
+                    },
+                    "author": null,
+                    "title": "WHO Guideline for complementary feeding of infants and young children 6-23 months of age - World - ReliefWeb",
+                    "description": "Manual and Guideline in English on World about Food and Nutrition and Health; published on 13 Oct 2023 by WHO",
+                    "url": "https://reliefweb.int/report/world/who-guideline-complementary-feeding-infants-and-young-children-6-23-months-age",
+                    "urlToImage": "https://reliefweb.int/sites/default/files/styles/large/public/previews/cd/d1/cdd19e25-b5d7-4f3a-9bb5-5ee0b569c2d5.png",
+                    "publishedAt": "2023-10-15T03:09:56Z",
+                    "content": "Executive summary\r\nThis guideline, Complementary feeding of infants and young children 6–23 months of age, supersedes the Guiding Principles for Complementary Feeding of the Breastfed Child (1) and G… [+11303 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TNN",
+                    "title": "New dengue lineage in Bhopal since 2014: ICMR - IndiaTimes",
+                    "description": "Bhopal: A new dengue lineage has been detected in mosquitoes and in human blood in Bhopal, reports an Indian Council of Medical Council (ICMR) study.",
+                    "url": "https://timesofindia.indiatimes.com/city/bhopal/new-dengue-lineage-in-bhopal-since-2014-icmr/articleshow/104434300.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-10-15T02:48:00Z",
+                    "content": "10 drinks for strong bones that are better than supplements"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": null,
+                    "title": "Gummy vitamins for kids: healthy or candy in disguise? - Mint Lounge",
+                    "description": "Their appealing shapes and flavours make them an effective nutritional supplement for kids",
+                    "url": "https://lifestyle.livemint.com/health/wellness/sugar-free-gummy-vitamins-for-kids-benefits-nutritional-supplements-111697320135038.html",
+                    "urlToImage": "https://images.livemint.com/img/2023/10/14/1140x641/pexels-supplements-on-demand-14027295_1697320292174_1697320309503.jpg",
+                    "publishedAt": "2023-10-15T02:40:29Z",
+                    "content": "In recent years, sugar-free gummy vitamins for kids have become extremely popular with parents and guardians endorsing them. For, these appetising chewable supplements are expected to help bridge the… [+3281 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "Sheezan Nezami",
+                    "title": "State logs 299 fresh dengue cases in 24 hrs - IndiaTimes",
+                    "description": "PATNA: The state reported 299 new cases of dengue on Saturday.",
+                    "url": "https://timesofindia.indiatimes.com/city/patna/state-logs-299-fresh-dengue-cases-in-24-hrs/articleshow/104433753.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-104433763,width-1070,height-580,imgsize-619539,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-10-15T02:13:00Z",
+                    "content": "10 drinks for strong bones that are better than supplements"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "EurekAlert"
+                    },
+                    "author": null,
+                    "title": "Two easy fixes could reduce bleeding after cesarean delivery - EurekAlert",
+                    "description": "<p>Two simple solutions could help prevent severe bleeding (postpartum hemorrhage) after cesarean delivery, suggests research presented at the <a href=\"https://www.asahq.org/annualmeeting\">ANESTHESIOLOGY<sup>&reg; </sup>2023 annual meeting</a>. As the leading…",
+                    "url": "https://www.eurekalert.org/news-releases/1004280",
+                    "urlToImage": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8e78aff4-a953-4622-9596-04bf9e574f46/Rendition/low-res/Content/Public",
+                    "publishedAt": "2023-10-15T02:01:23Z",
+                    "content": "— Two simple solutions could help prevent severe bleeding (postpartum hemorrhage) after cesarean delivery, suggests research presented at the ANESTHESIOLOGY® 2023 annual meeting. As the leading cause… [+6959 chars]"
+                }
+            ]
+        }
+    ],
+    "technology":[
+        {
+            "status": "ok",
+            "totalResults": 69,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "GSMArena.com"
+                    },
+                    "author": "Peter",
+                    "title": "Weekly poll results: higher prices and limited availability are hurting the Pixel 8 and 8 Pro - GSMArena.com news - GSMArena.com",
+                    "description": "Google now sells its phones in 20 marktes, up from just 9 back when the Pixel 6 series launched. That still leaves a lot of people with no legitimate way to get a Pixel 8.",
+                    "url": "https://www.gsmarena.com/weekly_poll_results_higher_prices_and_limited_availability_are_hurting_the_pixel_8_and_8_pro-news-60193.php",
+                    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/10/weekly-poll-results-google-pixel-8-8pro/-952x498w6/gsmarena_000.jpg",
+                    "publishedAt": "2023-10-15T05:46:01Z",
+                    "content": "Google launched the Pixel 8 series at a higher price point than the 7-series and that was a major factor in how people voted in last weeks poll. Almost four in ten voters think that the Pixel 8 Pro i… [+2115 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "ET Telecom",
+                    "title": "Microsoft spent two years trying to buy Activision Blizzard. For Xbox CEO, that was the easy part - ETTelecom",
+                    "description": "It marks a career-defining moment for Spencer, who first joined Microsoft as an intern in 1988 and has helmed Xbox since 2014. After years of lagging behind rival Sony's PlayStation, acquiring Activision's collection of popular game titles gives Microsoft a r…",
+                    "url": "https://telecom.economictimes.indiatimes.com/news/internet/microsoft-spent-two-years-trying-to-buy-activision-blizzard-for-xbox-ceo-that-was-the-easy-part/104436627",
+                    "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-104436627,imgsize-45264,width-1200,height=765,overlay-ettelecom/internet/microsoft-spent-two-years-trying-to-buy-activision-blizzard-for-xbox-ceo-that-was-the-easy-part.jpg",
+                    "publishedAt": "2023-10-15T05:13:16Z",
+                    "content": "By Matt O'BrienAfter two years co-piloting the biggest acquisition in video game history past an onslaught of challenges, Xbox CEO Phil Spencer now moves on to his next quest: making Microsoft's take… [+4967 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Affiliate Desk",
+                    "title": "Amazon Festival Sale 2023: Score big with over 65% savings on Lenovo tablets | Mint - Mint",
+                    "description": "Amazon Festival Sale 2023: Fetch up to 65% off on Lenovo tablets. Elevate your digital experience at affordable pricing.",
+                    "url": "https://www.livemint.com/technology/amazon-festival-sale-2023-score-big-with-over-65-savings-on-lenovo-tablets-11697171217291.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/kelly-sikkema-4xHgz_ZllQs-unsplash_1697172687434_1697172694551.jpg",
+                    "publishedAt": "2023-10-15T04:30:09Z",
+                    "content": "You have the opportunity to purchase premium Lenovo tablets at costs that are almost too wonderful to be true. Seize the chance to save over 65% and profit handsomely. Enhance your online experience … [+15314 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Indian Express"
+                    },
+                    "author": "Tech Desk",
+                    "title": "How to edit a post on Instagram Threads - The Indian Express",
+                    "description": "You can now edit Threads posts, for free",
+                    "url": "https://indianexpress.com/article/technology/tech-news-technology/how-to-edit-post-on-threads-8983600/",
+                    "urlToImage": "https://images.indianexpress.com/2023/08/meta-threads-featured-reuters.jpg",
+                    "publishedAt": "2023-10-15T03:34:37Z",
+                    "content": "Threads by Instagram now allows users to edit posts for a limited time, for free. The microblogging platform currently positioned as an X/Twitter alternative, has enabled an option that allows users … [+1438 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Livemint",
+                    "title": "Apple India Diwali sale: Top deals on iPhone, iPad, Mac, AirPods revealed | Mint - Mint",
+                    "description": "Apple Festive Sale has begun from today offering exicitinh offers and discounts on a range of the Cupertino based company products including iPhone, iPad and more.",
+                    "url": "https://www.livemint.com/technology/gadgets/apple-india-diwali-sale-top-deals-on-iphone-ipad-mac-airpods-revealed-11697333873342.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/APPLE-FRANCE-UPDATE-0_1697335702929_1697335783149.JPG",
+                    "publishedAt": "2023-10-15T02:33:42Z",
+                    "content": "Apple has announced that it's much-anticipated festive sale has begun from the first day of Navaratri, 15 October, with huge discounts and offers on a range of products including iPhones, iPads, Macs… [+2001 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "Trisha Sengupta",
+                    "title": "Dinosaur or medical term: Quiz session with doctors turns hilarious - Hindustan Times",
+                    "description": "Paul Tran, a medical educator quizzed doctors with hilarious questions. Watch his video here.  | Trending",
+                    "url": "https://www.hindustantimes.com/trending/dinosaur-or-medical-term-quiz-session-with-doctors-turns-hilarious-101697297797372.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/14/1600x900/Quiz_doctors_1697298257243_1697298376177.png",
+                    "publishedAt": "2023-10-15T02:30:06Z",
+                    "content": "Opisthocoelicaudia - what do you think this word means? More precisely, do you think it is a medical term or a dinosaur? Cant decide? Youre not alone. A group of paediatric residents also found it qu… [+2033 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "GSMArena.com"
+                    },
+                    "author": "Sagar",
+                    "title": "Google Camera is now Pixel Camera on the Play Store, Google Photos gets native Android 14 share sheet - GSMArena.com news - GSMArena.com",
+                    "description": "The Pixel Camera app only works on Pixel devices running Android 14 and above. The Google Camera app exclusive to Pixel devices has been renamed to Pixel...",
+                    "url": "https://www.gsmarena.com/google_pixel_camera_google_photos_android_14_share_sheet-news-60233.php",
+                    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/23/10/google-pixel-camera-google-photos-android-14-share-sheet/-952x498w6/gsmarena_001.jpg",
+                    "publishedAt": "2023-10-15T00:21:02Z",
+                    "content": "The Google Camera app exclusive to Pixel devices has been renamed to Pixel Camera on the Play Store by Google. The internet search giant also replaced \"Google Camera\" with \"Pixel Camera\" in the app d… [+1642 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "The Quint"
+                    },
+                    "author": "Saima Andrabi",
+                    "title": "Garena Free Fire MAX Redeem Codes 15 October 2023: Win Free Rewards & Weapons - The Quint",
+                    "description": "Garena Free Fire MAX Redeem Codes for Sunday, 15 October 2023 are now available on reward.ff.garena.com. Earn gold, diamonds, skins, and other freebies.",
+                    "url": "https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-max-redeem-codes-today-on-sunday-win-free-rewards-weapons",
+                    "urlToImage": "https://images.thequint.com/thequint%2F2023-09%2F1a994e1c-301a-4b30-8637-00614daec611%2Fgarena.jpg?rect=0%2C0%2C1440%2C756",
+                    "publishedAt": "2023-10-14T23:30:00Z",
+                    "content": "Garena Free Fire MAX Redeem Codes Today: The list of Garena Free Fire Max redeem codes for Sunday, 15 October 2023, are now available on the official website reward.ff.garena.com. Garena FF codes com… [+532 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Decrypt"
+                    },
+                    "author": "Kate Irwin",
+                    "title": "Sega Exec Says Blockchain Gaming an 'Unknown World' Worth Exploring - Decrypt",
+                    "description": "Sega is co-developing a trading card NFT game based on Sangokushi Taisen for Asia, and Sega's Co-COO is optimistic about its potential.",
+                    "url": "https://decrypt.co/201492/sega-exec-says-blockchain-gaming-unknown-world-worth-exploring",
+                    "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/10/sega1-gID_7.jpg",
+                    "publishedAt": "2023-10-14T20:10:15Z",
+                    "content": "Sega Co-COO Shuji Utsumi has shared optimistic thoughts on blockchain gaming and the unique role NFTs could play in the future of video gamesmonths after previously telling Bloomberg that he felt pla… [+2746 chars]"
+                }
+            ]
+        }
+    ],
+    "sports":[
+        {
+            "status": "ok",
+            "totalResults": 51,
+            "articles": [
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": null,
+                    "title": "'Bol kya rahe hain': Anushka Sharma and Virat Kohli's chit-chat post India-Pakistan match makes netizens curious - Times of India",
+                    "description": "After India defeted Pakistan in the World Cup match on October 14, a Tsunami of amazing videos from the Narendra Modi stadium flooded the cyberspace. One of the netizens have captured a cute moment that features cricketer Virat Kohli interacting with his wife…",
+                    "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/bol-kya-rahe-hain-anushka-sharma-and-virat-kohlis-chit-chat-post-india-pakistan-match-makes-netizens-curious/videoshow/104436600.cms",
+                    "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104436600,imgsize-34680.cms",
+                    "publishedAt": "2023-10-15T05:11:34Z",
+                    "content": "Oct 15, 2023, 11:17AM ISTSource: etimes.inAfter India defeted Pakistan in the World Cup match on October 14, a Tsunami of amazing videos from the Narendra Modi stadium flooded the cyberspace. One of … [+479 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": null,
+                    "title": "Watch: Singer Arijit Singh requests Anushka Sharma for a photo during the India vs Pakistan match | Etimes - Times of India Videos - Times of India",
+                    "description": "India crushed Pakistan by 7 wickets in the crucial World Cup 2023 match. While every Indian is busy celebrating the victory, some beautiful videos and pictures from the stadium are now going viral on the internet. Amongst them is a video that shows singer Ari…",
+                    "url": "https://timesofindia.indiatimes.com/videos/etimes/bollywood/watch-singer-arijit-singh-requests-anushka-sharma-for-a-photo-during-the-india-vs-pakistan-match/videoshow/104436199.cms",
+                    "urlToImage": "https://timesofindia.indiatimes.com/photo/msid-104436199,imgsize-67726.cms",
+                    "publishedAt": "2023-10-15T04:52:11Z",
+                    "content": "Oct 15, 2023, 10:22AM ISTSource: etimes.inIndia crushed Pakistan by 7 wickets in the crucial World Cup 2023 match. While every Indian is busy celebrating the victory, some beautiful videos and pictur… [+308 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India Today"
+                    },
+                    "author": "India Today Sports Desk",
+                    "title": "IND vs PAK: Rohit Sharma explains to Hardik Pandya why he flexed his muscles to umpire Marais Erasmus - India Today",
+                    "description": "Rohit Sharma has explained why he decided to flex his muscles to umpire Marais Erasmus during India's win against Pakistan in the World Cup on Saturday. Rohit scored a blistering 86 off 63 balls in Ahmedabad.",
+                    "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-rohit-sharma-explains-to-hardik-pandya-why-he-flexed-his-muscles-to-umpire-marais-erasmus-2449167-2023-10-15",
+                    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/india-vs-pakistan-rohit-sharma-lauds-bowlers-after-indias-majestic-victory-courtesy-ap-142312606-16x9_0.jpg?VersionId=bxl.uyHQYRBQGm5AeOC8DwjCg9g6Re7z",
+                    "publishedAt": "2023-10-15T04:38:20Z",
+                    "content": "Rohit Sharma told Hardik Pandya the reason behind him flexing his muscles in front of umpire Marais Erasmus during India's win against Pakistan in Ahmedabad on Saturday in the World Cup 2023. \r\nRohit… [+1675 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Sports Desk",
+                    "title": "'Shaheen Afridi is no Wasim Akram': Shastri, Gavaskar tear into Pakistan star - Hindustan Times",
+                    "description": "Shaheen's poor form in World Cup 2023 continued in Pakistan's seven-wicket thrashing by India in Ahmedabad. | Cricket",
+                    "url": "https://www.hindustantimes.com/cricket/shaheen-afridi-is-no-wasim-akram-nothing-special-ravi-shastri-sunil-gavaskar-pakistan-star-india-world-cup-hammering-101697301596713.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/shastri-shaheen-gavaskar_1697339304061_1697339309800.jpg",
+                    "publishedAt": "2023-10-15T03:11:41Z",
+                    "content": "Pakistan pacer Shaheen Afridi versus the Indian top order was the contest to look out for in the blockbuster World Cup 2023 game at the Narendra Modi Stadium in Ahmedabad and the faceoff that the hos… [+3342 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "TOI Sports Desk",
+                    "title": "WATCH: Virat Kohli gifts Babar Azam signed jersey after India beat Pakistan - IndiaTimes",
+                    "description": "Cricket News:  Captain Rohit Sharma's 86 and an inspired bowling display helped India hammer Pakistan by seven wickets in their high-octane World Cup clash at the N",
+                    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/watch-virat-kohli-gifts-babar-azam-signed-jersey-after-india-beat-pakistan/articleshow/104434468.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-104434481,width-1070,height-580,imgsize-58590,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-10-15T03:05:00Z",
+                    "content": "India vs Pakistan: Rohit Sharma, bowlers star in Indias dominant 7-wicket win"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "Nitin Naik",
+                    "title": "World Cup, India vs Pakistan: Team India bares bowling fangs in big win against Pakistan - IndiaTimes",
+                    "description": "Cricket News: Indian bowling attack showcased their variety and skill to trigger a collapse in the Pakistani batting line-up during a high-stakes match. Mohammed Si",
+                    "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/world-cup-india-vs-pakistan-team-india-bares-bowling-fangs-in-big-win-against-pakistan/articleshow/104434038.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-104434012,width-1070,height-580,imgsize-88500,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-10-15T02:42:00Z",
+                    "content": "India vs Pakistan: Rohit Sharma, bowlers star in Indias dominant 7-wicket win"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Sounak Mukhopadhyay",
+                    "title": "ICC World Cup 2023: Who’ll win England vs Afghanistan match? Prediction, fantasy team, pitch report and more | Mint - Mint",
+                    "description": "As defending champions England clash with Afghanistan, let's have a look at the win probabilities of today's ICC World Cup 2023 match in New Delhi.",
+                    "url": "https://www.livemint.com/sports/cricket-news/icc-world-cup-2023-who-ll-win-england-vs-afghanistan-match-prediction-fantasy-team-pitch-report-and-more-11697335655587.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/CRICKET-WORLDCUP-ENG-AFG-PREVIEW-17_1697335891633_1697335949855.JPG",
+                    "publishedAt": "2023-10-15T02:14:38Z",
+                    "content": "Afghanistan are sitting right at the bottom of the points table with 2 losses in 2 matches and a net run rate (NRR) of -1.907. England are at number 5 despite winning only one of their last two encou… [+1947 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Cricketworldcup.com"
+                    },
+                    "author": "ICC",
+                    "title": "India retain top spot in ODI rankings after Pakistan thrashing - ICC Women's World Cup",
+                    "description": "India strengthened their hold on first place in the MRF Tyres ICC Men’s ODI Rankings with their seven-wicket win over Pakistan.",
+                    "url": "https://www.cricketworldcup.com/news/3738147",
+                    "urlToImage": "https://resources.pulse.icc-cricket.com/ICC/photo/2023/10/14/4f1e6678-2950-469e-be80-f4de05bf5b77/GettyImages-1735634462.jpg",
+                    "publishedAt": "2023-10-14T22:32:57Z",
+                    "content": "India strengthened their hold on first place in the MRF Tyres ICC Mens ODI Rankings with their seven-wicket win over Pakistan.\r\nIndia stun Pakistan for dominant victory | Digital Daily: Episode 12 | … [+1092 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "Yogesh Naik",
+                    "title": "India will leave no stone unturned in preparation for hosting 2036 Olympics: PM - Hindustan Times",
+                    "description": "PM hopeful IOC session will accept executive board’s recommendation of including cricket in the 2028 LA Olympics. | Mumbai news",
+                    "url": "https://www.hindustantimes.com/cities/mumbai-news/india-will-leave-no-stone-unturned-in-preparation-for-hosting-2036-olympics-pm-modi-101697310696110.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/14/1600x900/Mumbai--Oct-14--ANI---Prime-Minister-Narendra-Modi_1697310693526.jpg",
+                    "publishedAt": "2023-10-14T19:11:35Z",
+                    "content": "Mumbai: Prime Minister Narendra Modi on Saturday asserted that India will leave no stone unturned in its efforts to organise the 2036 Olympics as the government expressed a strong desire to host the … [+5863 chars]"
+                }
+            ]
+        }
+    ],
+    "entertainment":[
+        {
+            "status": "ok",
+            "totalResults": 70,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "News18"
+                    },
+                    "author": "Dishya Sharma",
+                    "title": "Anushka Sharma's Baby Bump Spotted? Viral Video With Virat Seemingly CONFIRMS Second Pregnancy - News18",
+                    "description": "A new video seemingly confirms Anushka Sharma's pregnancy rumours. The actress was spotted with Virat Kohli after India beat Pakistan at World Cup.",
+                    "url": "https://www.news18.com/movies/anushka-sharma-baby-bump-spotted-viral-video-virat-kohli-confirms-second-pregnancy-8618383.html",
+                    "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/anushka-sharma-pregnant-2-2023-10-7020edd7538d9f313da1fd0b714ca235-16x9.jpg?impolicy=website&width=1200&height=675",
+                    "publishedAt": "2023-10-15T06:35:57Z",
+                    "content": "Anushka Sharma appeared to be hiding her baby bump in a new video with Virat Kohli, seemingly confirming pregnancy rumours. The actress joined her cricketer husband at the India vs Pakistan match in … [+1708 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Deepika Padukone shares first look from Singham Again, Alia Bhatt and Ranveer Singh react: 'Introducing Shakti Shetty' - Hindustan Times",
+                    "description": "Meet Shakti Shetty aka Deepika Padukone's cop character from Singham Again. Here's how Ranveer Singh and Janhvi Kapoor reacted to Deepika's fierce avatar. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/deepika-padukone-singham-again-first-look-shakti-shetty-cop-ranveer-singh-101697348741452.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/Deepika_Padukone_1697348951808_1697348971582.jpg",
+                    "publishedAt": "2023-10-15T05:57:29Z",
+                    "content": "Deepika Padukone will be seen playing a key role in Singham Again. On Sunday, she unveiled her cop look from the Rohit Shetty film. Sharing two photos of herself in uniform and wielding a gun, Deepik… [+2441 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Parineeti Chopra talks about her sindoor and saree fashion week look - Hindustan Times",
+                    "description": "Parineeti Chopra has walked the ramp for the first time after her wedding. On Saturday, she was a showstopper at Lakme Fashion Week in Delhi. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/parineeti-chopra-sindoor-saree-fashion-week-viral-new-bride-101697346172270.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/F8ZeK_dbMAAhopk_1697346454368_1697346496591.jpg",
+                    "publishedAt": "2023-10-15T05:25:18Z",
+                    "content": "Parineeti Chopra on Saturday walked the ramp during the ongoing Lakme Fashion Week in Delhi. The actor, who married Aam Aadmi Party leader Raghav Chadha in Udaipur last month, turned muse for One Inf… [+2152 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "123telugu.com"
+                    },
+                    "author": null,
+                    "title": "Exclusive updates on Siddhu Jonnalagadda-Neeraja Kona film - 123telugu",
+                    "description": "Telugu cinema news, Telugu Movies Updates, Latest Movie reviews in Telugu, Telugu cinema reviews, telugu movie reviews, Tollywood, Box office collections, Telugu Movie show times, Theater List, telugu cinema tickets",
+                    "url": "https://www.123telugu.com/mnews/exclusive-updates-on-siddhu-jonnalagadda-neeraja-kona-film.html",
+                    "urlToImage": "https://www.123telugu.com/content/wp-content/themes/123telugu/images/logo.gif",
+                    "publishedAt": "2023-10-15T05:16:00Z",
+                    "content": "Siddhu Jonnalagadda is juggling multiple projects, including Tillu Square and a film with Bommarillu Bhaskar. Now, he’s added another exciting project to his list, creating quite a buzz in the indust… [+1029 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "India Today"
+                    },
+                    "author": "India Today Entertainment Desk",
+                    "title": "Hrithik Roshan shuts down trolls questioning Saba Azad's Lakme Fashion show dance - India Today",
+                    "description": "Saba Azad faced trolling after she danced on the ramp at the Lakme Fashion Week. Hrithik Roshan responded to the trolls with a savage message on Instagram.",
+                    "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-shuts-down-trolls-questioning-saba-azads-lakme-fashion-show-dance-2449180-2023-10-15",
+                    "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/hrithik-roshan-shuts-down-trolls-targeting-saba-azad-for-her-ramp-dance-150108494-16x9.png?VersionId=ULhnEiq7TeVUCtxN3XPmdz4oHQC92p05",
+                    "publishedAt": "2023-10-15T05:05:22Z",
+                    "content": "Hrithik Roshan's girlfriend, Saba Azad, recently walked the Lakme Fashion Week ramp and danced along. A section of the social media brutally trolled her. Soon after, Saba silenced trolls with befitti… [+2711 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Entertainment Desk",
+                    "title": "Sunny Deol recalls drinking alcohol for the first time to fit in English society - Hindustan Times",
+                    "description": "Sunny Deol once caught his son Rajveer Deol after he had his first beer and came home. Unlike his sons, the actor said he doesn't drink or smoke. | Bollywood",
+                    "url": "https://www.hindustantimes.com/entertainment/bollywood/sunny-deol-drank-alcohol-first-time-to-fit-in-england-101697343221439.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/15/1600x900/_cd0aa6a6-3446-11eb-a095-f4dd1fe9b7fb_1697344679532.png",
+                    "publishedAt": "2023-10-15T04:54:00Z",
+                    "content": "Did you know actor Sunny Deol is a teetotaler? He confessed the same during a recent interview with Mashable India and said that he doesn't understand people's fascination with alcohol. He revealed t… [+1957 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "Fauda Actor's Insta Reel Captures Horror Of Hamas Attacks On Israel - NDTV",
+                    "description": "Israeli actor Rona-Lee Shimon, who starred in the popular web series Fauda, has put up an Instagram reel that captures the horror Israelis faced last Saturday when Hamas operatives launched an unprecedented attack on its cities.",
+                    "url": "https://www.ndtv.com/world-news/rona-lee-shimon-hamas-attacks-on-israel-fauda-actors-insta-reel-captures-horror-of-hamas-attacks-on-israel-4482408",
+                    "urlToImage": "https://c.ndtvimg.com/2023-10/ejnoihag_ronalee-shimon_625x300_15_October_23.jpg",
+                    "publishedAt": "2023-10-15T04:37:09Z",
+                    "content": "The actor plays Nurit, a woman member of Israel's counter-terrorism unit, in Fauda.\r\nNew Delhi: Israeli actor Rona-Lee Shimon, who starred in the popular web series Fauda, has put up an Instagram ree… [+2113 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Gulte"
+                    },
+                    "author": "Satya B",
+                    "title": "Negative vibes surrounds Vijay’s LEO - Gulte",
+                    "description": "Thalapathy Vijay's \"Leo\" initially created a substantial buzz, garnering attention in Tamil and Telugu. Despite the association of big names like Lokesh Kanagaraj, Anirudh Ravichander, Sanjay Dutt, Trisha Krishnan, and Vijay himself, negative vibes surround t…",
+                    "url": "https://www.gulte.com/movienews/263343/negative-vibes-surrounds-vijays-leo",
+                    "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2023/10/img_6718-1.jpg",
+                    "publishedAt": "2023-10-15T03:56:03Z",
+                    "content": "Thalapathy Vijay’s “Leo” initially created a substantial buzz, garnering attention in Tamil and Telugu. Despite the association of big names like Lokesh Kanagaraj, Anirudh Ravichander, Sanjay Dutt, T… [+1927 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Livemint",
+                    "title": "Who is Azhar Iqubal, the latest to join Season 3 of Shark Tank India? Key things to know | Mint - Mint",
+                    "description": "Azhar Iqubal expressed his motivation for joining Shark Tank India, aiming to assist participants in realising their entrepreneurial aspirations",
+                    "url": "https://www.livemint.com/news/who-is-azhar-iqubal-the-latest-to-join-season-3-of-shark-tank-india-key-things-to-know-11697339090899.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/Shark_Tank_India_Azhar_Iqubal_1697339170350_1697339193183.jfif",
+                    "publishedAt": "2023-10-15T03:37:12Z",
+                    "content": "The Sharks are poised to commence filming for the fourth phase of the upcoming season and Inshorts co-founder and CEO Azhar Iqubal is the latest entrepreneur to be featured on Shark Tank India, accor… [+2736 chars]"
+                }
+            ]
+        }
+    ],
+    "business":[
+        {
+            "status": "ok",
+            "totalResults": 70,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "NDTV News"
+                    },
+                    "author": null,
+                    "title": "How Much Time Does A Hacker Take To Crack Passwords? Paytm CEO Answers - NDTV",
+                    "description": "Paytm founder and CEO Vijay Shekhar Sharma posted about the importance of passwords and how long it takes a hacker to crack them.",
+                    "url": "https://www.ndtv.com/india-news/how-much-time-does-a-hacker-take-to-crack-passwords-paytm-ceo-vijay-shekhar-sharma-answers-4482386",
+                    "urlToImage": "https://c.ndtvimg.com/2021-11/cac3fqc8_vijay-shekhar-sharma-paytm-reuters-650_625x300_18_November_21.jpg",
+                    "publishedAt": "2023-10-15T05:32:47Z",
+                    "content": "New Delhi: Paytm founder and CEO Vijay Shekhar Sharma posted  about the importance of passwords and how long it takes a hacker to crack them. \r\nMr Sharma said that it is the length of the password th… [+2271 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "CarToq.com"
+                    },
+                    "author": "Ajeesh Kuttan",
+                    "title": "Yamaha MT-15 rider nearly falls off flyover after taking curve at high speed [Video] - CarToq.com",
+                    "description": "We have mentioned several times in our articles that public roads are for everyone and not a place to perform stunts or show off skills. Any action that inconveniences other road users should not be encouraged on the road. There is a group of social media use…",
+                    "url": "https://www.cartoq.com/yamaha-mt-15-rider-nearly-falls-off-flyover-after-taking-curve-at-high-speed-video/",
+                    "urlToImage": "https://www.cartoq.com/wp-content/uploads/2023/10/yamaha-mt15-rider-surat-flyover-crash-1198x628.jpg",
+                    "publishedAt": "2023-10-15T05:06:57Z",
+                    "content": "We have mentioned several times in our articles that public roads are for everyone and not a place to perform stunts or show off skills. Any action that inconveniences other road users should not be … [+2674 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Crosstownnews.in"
+                    },
+                    "author": null,
+                    "title": "Centre Govt likely to enhance hike in DA by 4% - Cross Town News",
+                    "description": null,
+                    "url": "https://www.crosstownnews.in/post/84200/centre-govt-likely-to-enhance-hike-in-da-by-4.html",
+                    "urlToImage": "https://www.crosstownnews.in/Banner-Pics/istockphoto-623301456-170667a.jpg",
+                    "publishedAt": "2023-10-15T03:40:53Z",
+                    "content": "New Delhi, Oct 14: The Central Government is likely to hike Dearness Allowance for its employees and pensioners by four percent with effect from July 1, 2023 &amp; an announcement for increase in DA … [+180 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "Trisha Sengupta",
+                    "title": "Delta Airlines lauds passenger's efforts in resolving error with customer care - Hindustan Times",
+                    "description": "Samantha Brown, a passenger with Delta Airlines explained her oversight and also her desire to make amends. Check what the airlines has to say about it. | Trending",
+                    "url": "https://www.hindustantimes.com/trending/delta-airlines-lauds-passengers-efforts-in-resolving-error-with-customer-care-101697296975883.html",
+                    "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/14/1600x900/passenger_shares_her_mistake_1697297218254_1697297225193.png",
+                    "publishedAt": "2023-10-15T03:30:07Z",
+                    "content": "Ratings and reviews have a significant influence on the careers of those working in customer service. Realising that very fact, a customer of Delta Airlines did something incredible when she mistaken… [+2297 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Gadgets Now"
+                    },
+                    "author": "Gadgets Now",
+                    "title": "Google CEO on Israel attack, new phones from Oppo, Reliance Jio; Qualcomm job cuts and other top tech news - Gadgets Now",
+                    "description": "Google CEO Sundar Pichai has sent an email to its employees in Israel after the country was attacked by Palestine-based terrorist group Hamas. He also said that the tech giant has started contacting all employees working in Israel, where the company has two o…",
+                    "url": "https://www.gadgetsnow.com/slideshows/google-ceo-on-israel-attack-new-phones-from-oppo-reliance-jio-qualcomm-job-cuts-and-other-top-tech-news/photolist/104430257.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-104430283,width-800,resizemode-4,imgsize-9900/share.jpg",
+                    "publishedAt": "2023-10-15T03:05:00Z",
+                    "content": "Hours after the UKs Competition and Markets Authority (CMA) approved Microsofts $68.7 billion acquisition of Activision Blizzard, the Xbox maker announced that it has completed the biggest gaming dea… [+1215 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Dsij.in"
+                    },
+                    "author": "Karan Dsij",
+                    "title": "Narayana Murthy invested in this aerospace and defense multibagger stock with huge order visibility; Could it replicate Infosys' success in the next decade? - Dalal Street Investment Journal",
+                    "description": "The company's revenue will likely surpass the industry average for the year. Furthermore, more than half of their order book is convertible in the next 12 months, signaling robust revenue...",
+                    "url": "https://www.dsij.in/dsijarticledetail/narayana-murthy-invested-in-this-aerospace-and-defense-multibagger-stock-with-huge-order-visibility-could-it-replicate-infosys-success-in-the-next-decade-33894-2",
+                    "urlToImage": "https://www.dsij.in/Portals/0/EasyDNNnews/33894/bg-2.jpg",
+                    "publishedAt": "2023-10-15T02:59:25Z",
+                    "content": "The company's order backlog stands tall and stable at Rs 2,499.7 crore, a testament to their resilience.\r\nOn Friday, the Nifty embarked on a rollercoaster ride, opening more than 100 points down at 1… [+4127 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "GaadiWaadi.com"
+                    },
+                    "author": "Surendhar M",
+                    "title": "Hyundai September 2023 Sales Analysis - i10, Verna, Venue, Creta, Exter - GaadiWaadi.com",
+                    "description": "Hyundai posted 54,241 unit sales in September 2023 as against 49,700 units with a YoY positive sales growth of 9.1 per cent",
+                    "url": "https://gaadiwaadi.com/hyundai-september-2023-sales-analysis-i10-verna-venue-creta-exter/",
+                    "urlToImage": "https://gaadiwaadi.com/wp-content/uploads/2023/07/Hyundai-Exter.jpg",
+                    "publishedAt": "2023-10-15T02:30:39Z",
+                    "content": "Hyundai Motor India Limited (HMIL) continued to finish second in the overall manufacturers’ standings as 54,241 units were sold in the month of September 2023 as against 49,700 units during the same … [+2492 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Moneycontrol"
+                    },
+                    "author": "Sunil Shankar Matkar",
+                    "title": "Dalal Street Week Ahead | Earnings, Israel-Hamas war, China GDP, oil among 10 key factors to watch - Moneycontrol",
+                    "description": "Going ahead, the market may remain broadly rangebound with a positive bias amid healthy corporate earnings expectations and economic data, while keeping a focus on Israel-Hamas conflict, Chinese GDP numbers and oil prices, experts said.",
+                    "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-earnings-israel-hamas-conflict-china-gdp-oil-among-10-key-factors-to-watch-next-week-11533631.html",
+                    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/11/BSE_Dalal_Street_Sensex-e1542611416348-770x433.jpg",
+                    "publishedAt": "2023-10-15T01:27:53Z",
+                    "content": "The market rebounded smartly and clocked half a percent gains amid consolidation for the week ended October 13. Positive expectations for September quarter earnings, a fall in CPI inflation, and heal… [+9642 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-times-of-india",
+                        "name": "The Times of India"
+                    },
+                    "author": "Petlee Peter",
+                    "title": "Bengaluru man loses cryptocurrency, court says app not responsible - IndiaTimes",
+                    "description": "A Bengaluru man lost his legal battle against a cryptocurrency trading firm after losing 12,484 USDT. The city consumer court ruled that he was a vict",
+                    "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-man-loses-cryptocurrency-court-says-app-not-responsible/articleshow/104433302.cms",
+                    "urlToImage": "https://static.toiimg.com/thumb/msid-104433330,width-1070,height-580,imgsize-88042,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                    "publishedAt": "2023-10-15T01:24:00Z",
+                    "content": "Cryptocurrency stolen from Delhi lands in Hamas walletsIsrael's intelligence agency, Mossad, communicated - as part of routine intelligence exchange with their Indian counterparts - information about… [+147 chars]"
+                }
+            ]
+        }
+    ],
+    "science":[
+        {
+            "status": "ok",
+            "totalResults": 56,
+            "articles": [
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Livemint"
+                    },
+                    "author": "Fareha Naaz",
+                    "title": "ISRO solar mission: Chief S Somnath reveals the time it will take Aditya-L1 spacecraft to reach Lagrange Point 1 | Mint - Mint",
+                    "description": "ISRO chief says India's first solar mission Aditya-L1 spacecraft to be placed in a halo orbit around Lagrangian Point 1 (L1) by mid-January.",
+                    "url": "https://www.livemint.com/news/isro-solar-mission-chief-s-somnath-reveals-the-time-it-will-take-aditya-l1-spacecraft-to-reach-lagrange-point-1-11697337080646.html",
+                    "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/15/1600x900/ANI-20230919314-0_1697339337803_1697339369917.jpg",
+                    "publishedAt": "2023-10-15T03:49:25Z",
+                    "content": "Indian Space and Research Organisation (ISRO) Chief S Somnath on October 15 declared that the Aditya-L1 spacecraft, India's first solar mission, will reach the Lagrange Point 1 (L1) by mid-January, r… [+2359 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Partial solar eclipse darkens sky across several states - CBS New York",
+                    "description": "A partial solar eclipse darkened the sky in several states Saturday, creating what's called a \"ring of fire.\" Omar Villafranca reports for CBS New York. Read...",
+                    "url": "https://www.youtube.com/watch?v=Uatt55sDXdc",
+                    "urlToImage": "https://i.ytimg.com/vi/Uatt55sDXdc/maxresdefault.jpg",
+                    "publishedAt": "2023-10-15T03:25:29Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Russia reports coolant leak at space station - AP Archive",
+                    "description": "(10 Oct 2023) RESTRICTION SUMMARY: MUST CREDIT NASANASA – MUST CREDIT NASAInternational Space Station – 9 October 2023HEADLINE: Russia reports coolant leak a...",
+                    "url": "https://www.youtube.com/watch?v=VKhoPBv0i3s",
+                    "urlToImage": "https://i.ytimg.com/vi/VKhoPBv0i3s/maxresdefault.jpg",
+                    "publishedAt": "2023-10-15T01:29:34Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Heliophysics Big Year (Official NASA Trailer) - NASA",
+                    "description": "In October 2023, NASA is launching the Heliophysics Big Year – a global celebration of solar science and the Sun’s influence on Earth, our solar system, and ...",
+                    "url": "https://www.youtube.com/watch?v=4AUrfvGLST0",
+                    "urlToImage": "https://i.ytimg.com/vi/4AUrfvGLST0/maxresdefault.jpg",
+                    "publishedAt": "2023-10-14T18:14:35Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Opp.today"
+                    },
+                    "author": "Ron Davis",
+                    "title": "The Biggest Solar Storm in History Occurred 14,300 Years Ago - OPP.Today",
+                    "description": "The Biggest Solar Storm in History Occurred 14,300 Years Ago - OPP.Today",
+                    "url": "https://www.opp.today/uncategorized-en/scientists-find-proof-of-unprecedented-sun-explosion-hitting-earth/136967/",
+                    "urlToImage": "https://www.opp.today/wp-content/uploads/2023/08/mfrack_realistic_photo_of_men_using_smartphone_or_computer_on_o_24251226-067f-4f60-8049-482ce1cb40f9.png",
+                    "publishedAt": "2023-10-14T17:33:08Z",
+                    "content": "Scientists have discovered evidence of the largest solar storm ever recorded, known as a “Miyake Event,” which took place 14,300 years ago. Solar storms have the potential to cause severe damage to o… [+1573 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "YouTube"
+                    },
+                    "author": null,
+                    "title": "Study Total Solar Eclipses with Ham Radio - NASA Goddard",
+                    "description": "Ham Radio Science Citizen Investigation (HamSCI) is inviting ham radio operators to make radio contacts during the 2024 total solar eclipse, probing the Eart...",
+                    "url": "https://www.youtube.com/watch?v=b2yg46HjjbY",
+                    "urlToImage": "https://i.ytimg.com/vi/b2yg46HjjbY/hqdefault.jpg",
+                    "publishedAt": "2023-10-14T17:22:23Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Salon"
+                    },
+                    "author": "Elizabeth Hlavinka",
+                    "title": "How to avoid \"zombie\" satellites causing atmospheric destruction? Send them to this ocean graveyard - Salon",
+                    "description": "To prevent collision, satellites are put to rest in the most remote corner of the Pacific Ocean",
+                    "url": "https://www.salon.com/2023/10/14/how-to-avoid-zombie-satellites-causing-atmospheric-destruction-send-them-to-this-ocean-graveyard/",
+                    "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/11/space-trash-garbage-debris-1123211.jpg",
+                    "publishedAt": "2023-10-14T14:00:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Hindustan Times"
+                    },
+                    "author": "HT Tech",
+                    "title": "Lift-off! NASA chases Psyche Asteroid - HT Tech",
+                    "description": "NASA's Psyche Asteroid probe embarks on a unique 6-year mission to explore an extraordinary metallic space rock.",
+                    "url": "https://tech.hindustantimes.com/tech/news/liftoff-nasa-chases-psyche-asteroid-71697291556298.html",
+                    "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Psyche_Asteroid_1697291728362_1697291728616.jpg",
+                    "publishedAt": "2023-10-14T13:56:27Z",
+                    "content": "In a historic moment, NASA's Psyche Asteroid probe embarked on a groundbreaking journey to a space rock laden with rare metals. This remarkable NASA mission represents the first-ever exploration of a… [+2571 chars]"
+                },
+                {
+                    "source": {
+                        "id": null,
+                        "name": "Business Insider India"
+                    },
+                    "author": "Ankush Banerjee",
+                    "title": "Solar storms and bad space weather is making migratory birds hesitant and confused, study finds - Business Insider India",
+                    "description": "Much like advanced mobile phones have rendered our pocket diaries obsolete, navigation apps are gradually diminishing our ability to recall routes independently.",
+                    "url": "https://www.businessinsider.in/science/news/solar-storms-and-bad-space-weather-is-making-migratory-birds-hesitant-and-confused-study-finds/articleshow/104425636.cms",
+                    "urlToImage": "https://www.businessinsider.in/photo/104425636/solar-storms-and-bad-space-weather-is-making-migratory-birds-hesitant-and-confused-study-finds.jpg",
+                    "publishedAt": "2023-10-14T12:42:00Z",
+                    "content": "Much like advanced mobile phones have rendered our pocket diaries obsolete, navigation apps are gradually diminishing our ability to recall routes independently. It's concerning that humans face this… [+2456 chars]"
+                }
+            ]
+        }
+    ]
+}
 {
     "certificates": [
         {
