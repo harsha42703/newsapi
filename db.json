@@ -1020,8 +1020,6 @@
           "html"
         ]
       },
-      // Repeat the same structure for each project with different IDs
-      // ...
       {
         "source": {
           "id": 11,
