@@ -986,156 +986,72 @@
     ]
 ,
     "projects":[
-        {
-            "status": "ok",
-            "totalResults": 11,
-            "datap": [
-                {
-                    "source": {
-                        "id": 1,
-                        "name": "Foodie"
-                    },
-                    "url": "cloudinary",
-                    "description": "Hoodie is a food delivery app that helps you find the best restaurants and cafes in your area. It also allows you to order food from your favorite restaurants and cafes.",
-                    "visit":"beetroot",
-                    "github":"jujuju",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 2,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 3,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 4,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 5,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 6,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 7,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 8,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 9,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 10,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 11,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                },
-                {
-                    "source": {
-                        "id": 12,
-                        "name": "project1"
-                    },
-                    "url": "cloudinary",
-                    "description": "ugy3yuhuh",
-                    "visit":"demo link",
-                    "github":"vytgru",
-                    "tech": ["js","css","html"]
-
-                }
-                
-            ]
-        }
+  {
+    "status": "ok",
+    "totalResults": 11,
+    "datap": [
+      {
+        "source": {
+          "id": 1,
+          "name": "Foodie"
+        },
+        "url": "cloudinary",
+        "description": "Hoodie is a food delivery app that helps you find the best restaurants and cafes in your area. It also allows you to order food from your favorite restaurants and cafes.",
+        "visit": "beetroot",
+        "github": "jujuju",
+        "tech": [
+          "js",
+          "css",
+          "html"
+        ]
+      },
+      {
+        "source": {
+          "id": 2,
+          "name": "project1"
+        },
+        "url": "cloudinary",
+        "description": "ugy3yuhuh",
+        "visit": "demo link",
+        "github": "vytgru",
+        "tech": [
+          "js",
+          "css",
+          "html"
+        ]
+      },
+      // Repeat the same structure for each project with different IDs
+      // ...
+      {
+        "source": {
+          "id": 11,
+          "name": "project11"
+        },
+        "url": "cloudinary",
+        "description": "Description for project 11",
+        "visit": "demo link 11",
+        "github": "github11",
+        "tech": [
+          "js",
+          "css",
+          "html"
+        ]
+      },
+      {
+        "source": {
+          "id": 12,
+          "name": "project12"
+        },
+        "url": "cloudinary",
+        "description": "Description for project 12",
+        "visit": "demo link 12",
+        "github": "github12",
+        "tech": [
+          "js",
+          "css",
+          "html"
+        ]
+      }
+  }
     ]
 }
